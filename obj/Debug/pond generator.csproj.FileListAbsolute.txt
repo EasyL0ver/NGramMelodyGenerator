@@ -1,0 +1,21 @@
+D:\pluta neuron\pond generator\pond generator\bin\Debug\pond generator.exe.config
+D:\pluta neuron\pond generator\pond generator\obj\Debug\pond generator.csprojResolveAssemblyReference.cache
+D:\pluta neuron\pond generator\pond generator\bin\Debug\pond generator.exe
+D:\pluta neuron\pond generator\pond generator\bin\Debug\pond generator.pdb
+D:\pluta neuron\pond generator\pond generator\obj\Debug\pond generator.exe
+D:\pluta neuron\pond generator\pond generator\obj\Debug\pond generator.pdb
+D:\pawel\pluta\NGramMelodyGenerator\obj\Debug\pond generator.csprojResolveAssemblyReference.cache
+D:\pawel\pluta\NGramMelodyGenerator\obj\Debug\pond generator.exe
+D:\pawel\pluta\NGramMelodyGenerator\obj\Debug\pond generator.pdb
+D:\pawel\pluta\NGramMelodyGenerator\bin\Debug\pond generator.exe.config
+D:\pawel\pluta\NGramMelodyGenerator\bin\Debug\pond generator.exe
+D:\pawel\pluta\NGramMelodyGenerator\bin\Debug\pond generator.pdb
+<<<<<<< HEAD
+D:\pluta neuron\pond generator\NGramMelodyGenerator-master\bin\Debug\pond generator.exe.config
+D:\pluta neuron\pond generator\NGramMelodyGenerator-master\obj\Debug\pond generator.exe
+D:\pluta neuron\pond generator\NGramMelodyGenerator-master\obj\Debug\pond generator.pdb
+D:\pluta neuron\pond generator\NGramMelodyGenerator-master\bin\Debug\pond generator.exe
+D:\pluta neuron\pond generator\NGramMelodyGenerator-master\bin\Debug\pond generator.pdb
+D:\pluta neuron\pond generator\NGramMelodyGenerator-master\obj\Debug\pond generator.csprojResolveAssemblyReference.cache
+=======
+>>>>>>> 02c65f7e8fe7649dfaf63047a285d4b0ad908476

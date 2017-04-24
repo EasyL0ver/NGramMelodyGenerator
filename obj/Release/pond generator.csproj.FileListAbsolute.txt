@@ -1,0 +1,11 @@
+D:\pluta neuron\pond generator\pond generator\bin\Release\pond generator.exe.config
+D:\pluta neuron\pond generator\pond generator\bin\Release\pond generator.exe
+D:\pluta neuron\pond generator\pond generator\bin\Release\pond generator.pdb
+D:\pluta neuron\pond generator\pond generator\obj\Release\pond generator.exe
+D:\pluta neuron\pond generator\pond generator\obj\Release\pond generator.pdb
+D:\pawel\pluta\NGramMelodyGenerator\bin\Release\pond generator.exe.config
+D:\pawel\pluta\NGramMelodyGenerator\bin\Release\pond generator.exe
+D:\pawel\pluta\NGramMelodyGenerator\bin\Release\pond generator.pdb
+D:\pawel\pluta\NGramMelodyGenerator\obj\Release\pond generator.csprojResolveAssemblyReference.cache
+D:\pawel\pluta\NGramMelodyGenerator\obj\Release\pond generator.exe
+D:\pawel\pluta\NGramMelodyGenerator\obj\Release\pond generator.pdb
